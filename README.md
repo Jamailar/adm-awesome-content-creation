@@ -41,6 +41,7 @@ Whether you're building a YouTube channel, growing on TikTok, writing newsletter
 - [Screen Studio](https://www.screen.studio/) — Beautiful screen recordings with automatic zoom and cursor effects (Mac).
 
 ### AI Video Tools
+- [Ad Multiplier](https://admultipliers.com/) — Visual variations of existing 4–30 second video ads, with optional original audio and MP4 downloads.
 - [Synthesia](https://www.synthesia.io/) — AI avatars that speak your script. Great for faceless educational content.
 - [HeyGen](https://www.heygen.com/) — AI video generator with realistic avatars and voice cloning.
 - [Runway](https://runwayml.com/) — AI-powered video generation, editing, and effects.
